@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #d9d9d9;
+}
+
+img{
+    display: block;
+    box-shadow: 0px 0px 15px 10px #000;
+}
+
+li {
+     list-style-type: none;
+}
+
+.first {
+    text-align: center;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.first_part {
+    display: flex;
+    padding: 0 50px;
+    justify-content: space-between;
+    position: relative;
+    min-height: 400px;
+}
+
+.second_part {
+    display: flex;
+    padding: 50px 50px;
+    justify-content: space-between;
+    position: relative;
+    min-height: 400px;
+}
+
+.text2 {
+    
+    padding: 0 50px;
+}
